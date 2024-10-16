@@ -2,16 +2,16 @@
 
 ## Introduction
 
-This repository highlights the leadership contributions of **Duke Peter** as the **Regional Lead of the SingularityNET Africa Guild**. His efforts were pivotal in expanding SingularityNET's presence across Africa by establishing student-led AI initiatives, organizing townhalls and conferences, and leading research into how AI can be ethically integrated into African markets and societies. The repository includes resources, event materials, and insights from Duke’s work with the Guild.
+This repository showcases my leadership contributions as the Regional Lead of the SingularityNET Africa Guild and the grunt work in building the SingularityNET Africa community. My efforts were crucial in expanding SingularityNET's presence across Africa by establishing student-led AI initiatives, organising town halls and conferences, and leading research into how AI can be ethically integrated into African markets and societies. The repository contains resources, event materials, and insights from my work with the Guild. This is still ongoing and will be liable to changes.
 
 ## Context
 
-**SingularityNET** is a decentralized AI network that aims to make advanced AI technologies accessible and beneficial to all. As the **African Regional Lead**, Duke Peter spearheaded initiatives that introduced these technologies to universities, businesses, and individuals in Nigeria, Ghana, Cameroon, Rwanda, and South Africa. His leadership was instrumental in fostering an African-focused AI ecosystem that champions inclusivity and Indigenous solutions.
+**The SingularityNET Ambassador Program** is a decentralized network of like-minded individuals that aims to make advanced AI technologies accessible and beneficial to all. As the **African Regional Lead**, I spearheaded initiatives that introduced these technologies to universities, businesses, and individuals in Nigeria, Ghana, Cameroon, Rwanda, and South Africa. My leadership was instrumental in fostering an African-focused AI ecosystem that champions inclusivity and Indigenous solutions. I am also building the African community to give it a seat at the table in conversations and opportunities like this one.
 
-Duke's primary responsibilities included:
+My primary responsibilities include and are not restricted to:
 - Establishing student AI clubs across multiple countries.
 - Onboarding new members into the SingularityNET ecosystem.
-- Organizing the **Ubuntu and AI** event to explore how African philosophies can shape ethical AI development.
+- Organising the **Ubuntu and AI** event to explore how African philosophies can shape ethical AI development.
 - Conducting market research into green economies for AI applications.
 - Leading discussions on AI’s role in Africa’s socio-economic development.
 
@@ -50,4 +50,4 @@ Duke's primary responsibilities included:
 
 ## Conclusion
 
-Duke Peter’s leadership in the **SingularityNET Africa Guild** has played a crucial role in expanding AI education, research, and ethical development across the African continent. His work has empowered students, researchers, and tech enthusiasts to explore AI's potential while ensuring that African perspectives and Indigenous knowledge are integral to the conversation on AI ethics and sustainability.
+Working in the **SingularityNET Africa Guild** space has given me the privilege and opportunity to play a crucial role in expanding AI education, research, and ethical development across the African continent. My work continues to empower students, researchers, and tech enthusiasts to explore AI's potential, while also ensuring that African perspectives and Indigenous knowledge are integral to the ongoing conversation on AI ethics and sustainability.
