@@ -1,4 +1,4 @@
-# SingularityNET Africa Guild - Regional Leadership
+# SingularityNET Africa - Regional Leadership
 
 ## Introduction
 
