@@ -6,7 +6,7 @@ This repository showcases my leadership contributions as the Regional Lead of th
 
 ## Context
 
-**The SingularityNET Ambassador Program** is a decentralized network of like-minded individuals that aims to make advanced AI technologies accessible and beneficial to all. As the **African Regional Lead**, I spearheaded initiatives that introduced these technologies to universities, businesses, and individuals in Nigeria, Ghana, Cameroon, Rwanda, and South Africa. My leadership has been instrumental in fostering an African-focused AI ecosystem that champions inclusivity and Indigenous solutions. I am also building the African community to give it a seat at the table in conversations and opportunities like this one.
+**The SingularityNET Ambassador Program** is a decentralized network of like-minded individuals that aims to make advanced AI technologies accessible and beneficial to all. As the **African Regional Lead**, I spearheaded initiatives introducing these technologies to universities, businesses, and individuals in Nigeria, Ghana, Cameroon, Rwanda, and South Africa. My leadership has been instrumental in fostering an African-focused AI ecosystem that champions inclusivity and Indigenous solutions. I am also building the African community to give it a seat at the table in conversations and opportunities like this one.
 
 My primary responsibilities include and are not restricted to:
 - Establishing student AI clubs across multiple countries.
